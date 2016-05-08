@@ -1,6 +1,6 @@
 # README #
 
-This is just the files I got after paying $199 for AppPress .. so hmm in case you're curious.. ;)
+This is just the files I got after paying $199 for AppPresser .. so hmm in case you're curious.. ;)
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
